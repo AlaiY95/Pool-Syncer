@@ -1,0 +1,1 @@
+This repo will allow anyone to retrieve all the pools from UniswapV2 and UniswapV3. I will also be implementing SushiSwap pools. Let me know if you have any recommendations on Pools t include for retrieve.
